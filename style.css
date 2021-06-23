@@ -362,7 +362,7 @@ color: #000;
 footer .center hr{
     height: 1px;
     color: #AFB1BD;
-    border: 0;
+    padding: 0;
 }
 
 footer .center .copy{
