@@ -106,14 +106,8 @@
         width: 70%;
     }
 
-    header .center .navigation .navigation-items{
-        padding-top: 5px;
-        padding-bottom: 20px;
-    }
-
-    header .center .navigation-items .items-align a:nth-child(2) {
-        grid-column: 2/4;
-    text-align: right;
+   header .center .navigation .navigation-items{
+       display: none;
     }
 
     .title .center .title-1 h2,
